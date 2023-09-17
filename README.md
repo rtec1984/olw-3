@@ -32,7 +32,7 @@ O primeiro comando realiza a instalação dos pacotes via composer especificados
 
 Por padrão, não é necessária nenhuma configuração no arquivo *.env* do projeto. Caso seja necessária alguma edição na configuração padrão (relacionado a binding ports ou credenciais de banco de dados), basta editar o arquivo *.env*.
 
-### Demais duvidas assista nosso vídeo de primeiros passos
+### Demais dúvidas assista nosso vídeo de primeiros passos
 
 <a href="https://www.youtube.com/watch?v=dY2gsUe_6Ow" target="_blank">
  <img src="https://img.youtube.com/vi/dY2gsUe_6Ow/maxresdefault.jpg" alt="Watch the video" width="650" />
